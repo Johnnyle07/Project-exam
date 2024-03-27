@@ -1,8 +1,5 @@
 
-h1{
-color:red;
 
-}
 h2{
   color:yellow;
   background-color:blueviolet;
@@ -21,14 +18,24 @@ body{
   background-color:blanchedalmond;
 }
 
-
-
 .header{
     text-align:center;
-    color:red;
+    color:Red;
     font-size:40px;
-    font-family:fantasy;
+    Font-family:Fantasy;
 }
+
+.header:hover{
+  color:skyblue
+}
+.main{
+  text-align:center;
+
+}
+
+
+
+
 
   
 
